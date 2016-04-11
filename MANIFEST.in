@@ -1,0 +1,3 @@
+recursive-include vmprof_viewer/static *
+recursive-include vmprof_viewer/vmprof-server/server/static *
+include vmprof_viewer/vmprof-server/LICENSE

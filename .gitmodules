@@ -1,0 +1,4 @@
+[submodule "vmprof-server"]
+	path = vmprof-server
+	url = https://github.com/jonashaag/vmprof-server
+	branch = standalone
